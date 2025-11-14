@@ -37,7 +37,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| Litur(iOS) |  | 33% | https://apps.apple.com/us/app/litur/id1487096693?ls=1 | |
 
 ## 📚 Courses & Learning
 
