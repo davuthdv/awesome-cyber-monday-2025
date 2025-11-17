@@ -52,13 +52,14 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [Transcript LOL]| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 
 ## 🔧 Productivity Tools
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-cyber-monday-2025) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** | [Get Lifetime Deal](https://www.fileminutes.com/pricing/?utm_source=awesome-cyber-monday-2025) | Nov 15 - Dec 7 |
+| [Transcript LOL]|  Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 
 ## 🌐 Hosting & Infrastructure
 
