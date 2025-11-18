@@ -41,6 +41,10 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
+|[MGC UI](https://mgcui.framer.website/?utm_source=punk) | Design system and UI Kit for Figma | 30% OFF with code **BF2025**| [Get Deal](https://store.mingcute.com//?utm_source=punk) | Nov 15 - Dec 5 |
+|[MGC ICON](https://mgc.mingcute.com/?utm_source=punk) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
+|[MGC Animation](https://www.mingcute.com/animation?utm_source=punk) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
+|[MGC Weather](https://mgcweather.framer.website/?utm_source=punk) | 120 graceful weather icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
 
 ## 📚 Courses & Learning
 
