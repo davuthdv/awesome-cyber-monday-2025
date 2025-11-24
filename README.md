@@ -68,6 +68,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
+| [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-blackfriday2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BLACKFRIDAY** (one-time purchase) | [Get Deal](https://www.airbounce.co/?utm_source=gh-blackfriday2025) | Nov 22 - Dec 6 |
 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF - NO CODE REQUIRED | [Get Deal](https://getviso.app) | Nov 24th - Dec 4th |
 | [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-cyber-monday-2025) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** | [Get Lifetime Deal](https://www.fileminutes.com/pricing/?utm_source=awesome-cyber-monday-2025) | Nov 15 - Dec 7 |
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)|  Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
