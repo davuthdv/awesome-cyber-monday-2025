@@ -95,6 +95,9 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen (iOS & Android). | **50% OFF** Lifetime plan. No code needed | Available  in Paywall | Nov 24 - Dec 3 |
 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | [Get Deal](https://litur.app) | Nov 24th - Dec 4th |
 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY)<br><br>Available also on PayWall | Nov 24th - Dec 4th |
+| [Walk Mate](https://apple.co/4mz7vev) | Daily random walking routes in your location. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
+| [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
+| [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
 
 ## 🎮 Hardware & Gadgets
 
